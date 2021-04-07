@@ -26,3 +26,7 @@ Learn the basics of git workflow, including adding new files.
 `git push`
 
 6. check the repo on your github account.  Did it work?
+
+
+![Spongebob](Me_When.png)
+This is me when I push something to GitHub and it actually works!
