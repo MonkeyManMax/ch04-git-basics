@@ -12,3 +12,6 @@ merge the changes back to the others.
 2. Modify this readme file by writing the git commands to find out
    branches (both local and remote) of the current repo!
 
+Find out local branches: git branch
+Find out remote branches: git branch -r
+Find out both: git branch -a
